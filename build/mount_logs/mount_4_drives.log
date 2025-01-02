@@ -1,0 +1,26 @@
+[Info] Starting main()
+[Info] Using NUM_DRIVES=4
+FUSE library version: 3.10.5
+unique: 2, opcode: INIT (26), nodeid: 0, insize: 56, pid: 0
+INIT: 7.34
+flags=0x33fffffb
+max_readahead=0x00020000
+   INIT: 7.31
+   flags=0x00409029
+   max_readahead=0x00020000
+   max_write=0x00100000
+   max_background=0
+   congestion_threshold=0
+   time_gran=1
+   unique: 2, success, outsize: 80
+unique: 4, opcode: ACCESS (34), nodeid: 1, insize: 48, pid: 2283
+   unique: 4, success, outsize: 16
+unique: 6, opcode: LOOKUP (1), nodeid: 1, insize: 47, pid: 2283
+   unique: 6, error: -2 (No such file or directory), outsize: 16
+unique: 8, opcode: LOOKUP (1), nodeid: 1, insize: 52, pid: 2283
+   unique: 8, error: -2 (No such file or directory), outsize: 16
+unique: 10, opcode: GETATTR (3), nodeid: 1, insize: 56, pid: 2811
+   unique: 10, success, outsize: 120
+[Info] Low-level FUSE FS started.
+[Info] FUSE init callback
+[Info] Exiting.

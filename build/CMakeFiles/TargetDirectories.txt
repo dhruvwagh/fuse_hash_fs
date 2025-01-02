@@ -1,0 +1,3 @@
+/home/parallels/Documents/framework/fuse_hash_fs/build/CMakeFiles/my_fs.dir
+/home/parallels/Documents/framework/fuse_hash_fs/build/CMakeFiles/edit_cache.dir
+/home/parallels/Documents/framework/fuse_hash_fs/build/CMakeFiles/rebuild_cache.dir
