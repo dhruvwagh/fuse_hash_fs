@@ -33,7 +33,7 @@ static const int SSD_READ_LATENCY_US  = 100;
 static const int SSD_WRITE_LATENCY_US = 500;  
 
 // Default number of drives if user doesn't specify
-static int NUM_DRIVES = 4;
+static size_t NUM_DRIVES = 4;
 
 // -----------------------------------------------------------------------------
 // We'll parse a custom option "-o drives=N" using fuse_opt_parse
@@ -797,6 +797,13 @@ int main(int argc, char *argv[])
         g_inodeTable[1] = rootNode;
     }
 
+    struct concurrency {
+        std::mutex m_queueMutex;
+        std::condition_variable m_queueCond;
+        std::thread m_worker;
+        std::vector<FsRequest> m_queue;       
+    };
+    std::vector<concurrency> gl(NUM_DRIVES); // ... and use gl[driveIndex] instead of g_...
     // Allocate concurrency structures
     g_queueMutex = new std::mutex[NUM_DRIVES];
     g_queueCond  = new std::condition_variable[NUM_DRIVES];

@@ -10,15 +10,15 @@ import matplotlib.pyplot as plt
 # -------------------------------------------------------------------------
 # Configuration
 # -------------------------------------------------------------------------
-FUSE_BINARY  = "/home/parallels/Documents/framework/fuse_hash_fs/build/my_fs"
-MOUNTPOINT   = "/tmp/myfuse"
+FUSE_BINARY  = "/home/dhruv/Documents/fuse_hash_fs/build/my_fs"
+MOUNTPOINT   = "/home/dhruv/myfuse"
 DRIVES_LIST  = [1, 2, 4, 8, 12, 16]
 
 # Total data we want to write+read
 TOTAL_BYTES  = 32 * 1024 * 1024   # 32 MB total
 
 # We define how large each file should be
-FILE_SIZE    = 64 * 1024          # e.g., 64 KB per file to allow more concurrency overlap
+FILE_SIZE    = 4*1024 * 1024          # e.g., 64 KB per file to allow more concurrency overlap
 CHUNK_SIZE   = 4 * 1024           # We do our writes/reads in 4 KB increments
 
 # Number of concurrency threads

@@ -1,0 +1,446 @@
+{
+    "sequential_large_1": [
+        {
+            "write_throughput": 124.06011961624085,
+            "read_throughput": 1246.302355543897,
+            "write_time": 1.0317578315734863,
+            "read_time": 0.10270380973815918,
+            "files_processed": 8
+        },
+        {
+            "write_throughput": 132.51098649395783,
+            "read_throughput": 1230.4127388651812,
+            "write_time": 0.9659576416015625,
+            "read_time": 0.10403013229370117,
+            "files_processed": 8
+        },
+        {
+            "write_throughput": 126.2197207310843,
+            "read_throughput": 1273.2800941078256,
+            "write_time": 1.0141046047210693,
+            "read_time": 0.10052776336669922,
+            "files_processed": 8
+        },
+        {
+            "write_throughput": 131.9909418183186,
+            "read_throughput": 1175.773058467711,
+            "write_time": 0.9697635173797607,
+            "read_time": 0.10886454582214355,
+            "files_processed": 8
+        },
+        {
+            "write_throughput": 129.91261868568444,
+            "read_throughput": 1258.5822471446522,
+            "write_time": 0.9852776527404785,
+            "read_time": 0.10170173645019531,
+            "files_processed": 8
+        }
+    ],
+    "sequential_large_2": [
+        {
+            "write_throughput": 106.78152358778308,
+            "read_throughput": 1012.4577560276466,
+            "write_time": 1.19870924949646,
+            "read_time": 0.12642502784729004,
+            "files_processed": 8
+        },
+        {
+            "write_throughput": 100.7953315846677,
+            "read_throughput": 736.1313672848731,
+            "write_time": 1.2699000835418701,
+            "read_time": 0.17388200759887695,
+            "files_processed": 8
+        },
+        {
+            "write_throughput": 102.13861811842062,
+            "read_throughput": 1040.7460124221675,
+            "write_time": 1.2531988620758057,
+            "read_time": 0.12298870086669922,
+            "files_processed": 8
+        },
+        {
+            "write_throughput": 111.88899276944116,
+            "read_throughput": 964.2909446216628,
+            "write_time": 1.1439909934997559,
+            "read_time": 0.13274002075195312,
+            "files_processed": 8
+        },
+        {
+            "write_throughput": 116.71198122420088,
+            "read_throughput": 899.3791819879887,
+            "write_time": 1.0967168807983398,
+            "read_time": 0.1423203945159912,
+            "files_processed": 8
+        }
+    ],
+    "sequential_large_4": [
+        {
+            "write_throughput": 103.21999065605635,
+            "read_throughput": 886.9984849661389,
+            "write_time": 1.24006986618042,
+            "read_time": 0.14430689811706543,
+            "files_processed": 8
+        },
+        {
+            "write_throughput": 99.80345183613724,
+            "read_throughput": 739.9186472633655,
+            "write_time": 1.2825207710266113,
+            "read_time": 0.17299199104309082,
+            "files_processed": 8
+        },
+        {
+            "write_throughput": 118.12803933795426,
+            "read_throughput": 969.1422959934292,
+            "write_time": 1.0835700035095215,
+            "read_time": 0.13207554817199707,
+            "files_processed": 8
+        },
+        {
+            "write_throughput": 112.01542971480315,
+            "read_throughput": 976.0561703582097,
+            "write_time": 1.1426997184753418,
+            "read_time": 0.13113999366760254,
+            "files_processed": 8
+        },
+        {
+            "write_throughput": 106.39106512361869,
+            "read_throughput": 861.6182931683079,
+            "write_time": 1.203108549118042,
+            "read_time": 0.1485576629638672,
+            "files_processed": 8
+        }
+    ],
+    "sequential_large_8": [
+        {
+            "write_throughput": 97.6476201354518,
+            "read_throughput": 823.7450778219669,
+            "write_time": 1.310835838317871,
+            "read_time": 0.15538787841796875,
+            "files_processed": 8
+        },
+        {
+            "write_throughput": 105.8668084347822,
+            "read_throughput": 575.0588446999924,
+            "write_time": 1.209066390991211,
+            "read_time": 0.22258591651916504,
+            "files_processed": 8
+        },
+        {
+            "write_throughput": 108.89903018019517,
+            "read_throughput": 827.8580491159681,
+            "write_time": 1.175400733947754,
+            "read_time": 0.1546158790588379,
+            "files_processed": 8
+        },
+        {
+            "write_throughput": 115.01277912836628,
+            "read_throughput": 831.0232123287248,
+            "write_time": 1.112919807434082,
+            "read_time": 0.15402698516845703,
+            "files_processed": 8
+        },
+        {
+            "write_throughput": 109.15779900416831,
+            "read_throughput": 839.800326615401,
+            "write_time": 1.172614336013794,
+            "read_time": 0.15241718292236328,
+            "files_processed": 8
+        }
+    ],
+    "sequential_large_12": [
+        {
+            "write_throughput": 98.3515309705948,
+            "read_throughput": 940.082740168345,
+            "write_time": 1.3014540672302246,
+            "read_time": 0.13615822792053223,
+            "files_processed": 8
+        },
+        {
+            "write_throughput": 94.64279566943,
+            "read_throughput": 745.2710579285645,
+            "write_time": 1.3524537086486816,
+            "read_time": 0.17174959182739258,
+            "files_processed": 8
+        },
+        {
+            "write_throughput": 93.69834653337476,
+            "read_throughput": 904.5159372920334,
+            "write_time": 1.3660860061645508,
+            "read_time": 0.14151215553283691,
+            "files_processed": 8
+        },
+        {
+            "write_throughput": 100.44923240766225,
+            "read_throughput": 666.0574088479151,
+            "write_time": 1.274275541305542,
+            "read_time": 0.19217562675476074,
+            "files_processed": 8
+        },
+        {
+            "write_throughput": 105.06866077657952,
+            "read_throughput": 794.1536709224013,
+            "write_time": 1.2182509899139404,
+            "read_time": 0.1611778736114502,
+            "files_processed": 8
+        }
+    ],
+    "sequential_large_16": [
+        {
+            "write_throughput": 86.56538693228798,
+            "read_throughput": 727.3461360775914,
+            "write_time": 1.4786510467529297,
+            "read_time": 0.17598223686218262,
+            "files_processed": 8
+        },
+        {
+            "write_throughput": 101.54560673713773,
+            "read_throughput": 631.7689217336048,
+            "write_time": 1.2605173587799072,
+            "read_time": 0.2026057243347168,
+            "files_processed": 8
+        },
+        {
+            "write_throughput": 109.68444390508401,
+            "read_throughput": 875.9547461404671,
+            "write_time": 1.1669840812683105,
+            "read_time": 0.14612627029418945,
+            "files_processed": 8
+        },
+        {
+            "write_throughput": 95.89799287433414,
+            "read_throughput": 656.6762382607717,
+            "write_time": 1.3347516059875488,
+            "read_time": 0.19492101669311523,
+            "files_processed": 8
+        },
+        {
+            "write_throughput": 104.05198966362195,
+            "read_throughput": 792.7207372155966,
+            "write_time": 1.230154275894165,
+            "read_time": 0.1614692211151123,
+            "files_processed": 8
+        }
+    ],
+    "parallel_small_1": [
+        {
+            "write_throughput": 24.87271153096336,
+            "read_throughput": 98.47055370998604,
+            "write_time": 1.286550521850586,
+            "read_time": 0.3249702453613281,
+            "files_processed": 512
+        },
+        {
+            "write_throughput": 25.472392200252603,
+            "read_throughput": 96.83120121203376,
+            "write_time": 1.2562620639801025,
+            "read_time": 0.3304719924926758,
+            "files_processed": 512
+        },
+        {
+            "write_throughput": 24.415626410944032,
+            "read_throughput": 101.06079336550488,
+            "write_time": 1.310636043548584,
+            "read_time": 0.31664109230041504,
+            "files_processed": 512
+        },
+        {
+            "write_throughput": 25.707800674022366,
+            "read_throughput": 104.71182151099016,
+            "write_time": 1.2447583675384521,
+            "read_time": 0.305600643157959,
+            "files_processed": 512
+        },
+        {
+            "write_throughput": 25.8286650306824,
+            "read_throughput": 102.79330170291145,
+            "write_time": 1.2389335632324219,
+            "read_time": 0.31130433082580566,
+            "files_processed": 512
+        }
+    ],
+    "parallel_small_2": [
+        {
+            "write_throughput": 24.05135199306868,
+            "read_throughput": 99.34172815492302,
+            "write_time": 1.330486536026001,
+            "read_time": 0.32212042808532715,
+            "files_processed": 512
+        },
+        {
+            "write_throughput": 24.43523787711682,
+            "read_throughput": 99.10882365537724,
+            "write_time": 1.309584140777588,
+            "read_time": 0.3228774070739746,
+            "files_processed": 512
+        },
+        {
+            "write_throughput": 24.339524524362968,
+            "read_throughput": 106.12941175540323,
+            "write_time": 1.3147339820861816,
+            "read_time": 0.30151867866516113,
+            "files_processed": 512
+        },
+        {
+            "write_throughput": 25.248710783368526,
+            "read_throughput": 96.04206401624629,
+            "write_time": 1.2673914432525635,
+            "read_time": 0.3331873416900635,
+            "files_processed": 512
+        },
+        {
+            "write_throughput": 24.828416679754433,
+            "read_throughput": 100.88979358660193,
+            "write_time": 1.2888457775115967,
+            "read_time": 0.31717777252197266,
+            "files_processed": 512
+        }
+    ],
+    "parallel_small_4": [
+        {
+            "write_throughput": 20.36666814363676,
+            "read_throughput": 93.0187801040952,
+            "write_time": 1.5711946487426758,
+            "read_time": 0.34401655197143555,
+            "files_processed": 512
+        },
+        {
+            "write_throughput": 20.781466990166493,
+            "read_throughput": 91.46311293316579,
+            "write_time": 1.5398335456848145,
+            "read_time": 0.3498678207397461,
+            "files_processed": 512
+        },
+        {
+            "write_throughput": 20.928590229292166,
+            "read_throughput": 87.11002191092327,
+            "write_time": 1.5290088653564453,
+            "read_time": 0.3673515319824219,
+            "files_processed": 512
+        },
+        {
+            "write_throughput": 20.960519002604727,
+            "read_throughput": 94.44928841650153,
+            "write_time": 1.5266797542572021,
+            "read_time": 0.33880615234375,
+            "files_processed": 512
+        },
+        {
+            "write_throughput": 21.520242469992287,
+            "read_throughput": 96.0215197154361,
+            "write_time": 1.4869720935821533,
+            "read_time": 0.33325862884521484,
+            "files_processed": 512
+        }
+    ],
+    "parallel_small_8": [
+        {
+            "write_throughput": 19.819516780719663,
+            "read_throughput": 81.44749120853447,
+            "write_time": 1.614570140838623,
+            "read_time": 0.39289116859436035,
+            "files_processed": 512
+        },
+        {
+            "write_throughput": 20.123533177703912,
+            "read_throughput": 80.54342709622289,
+            "write_time": 1.5901780128479004,
+            "read_time": 0.39730119705200195,
+            "files_processed": 512
+        },
+        {
+            "write_throughput": 20.825801218070872,
+            "read_throughput": 88.12563926969122,
+            "write_time": 1.536555528640747,
+            "read_time": 0.36311793327331543,
+            "files_processed": 512
+        },
+        {
+            "write_throughput": 20.0069415811863,
+            "read_throughput": 86.74940682747874,
+            "write_time": 1.59944486618042,
+            "read_time": 0.3688786029815674,
+            "files_processed": 512
+        },
+        {
+            "write_throughput": 20.72643636697192,
+            "read_throughput": 81.80471247491177,
+            "write_time": 1.543921947479248,
+            "read_time": 0.3911755084991455,
+            "files_processed": 512
+        }
+    ],
+    "parallel_small_12": [
+        {
+            "write_throughput": 17.305244433946342,
+            "read_throughput": 79.44326505390123,
+            "write_time": 1.8491504192352295,
+            "read_time": 0.4028031826019287,
+            "files_processed": 512
+        },
+        {
+            "write_throughput": 21.10418950882949,
+            "read_throughput": 85.80121678438803,
+            "write_time": 1.5162866115570068,
+            "read_time": 0.3729550838470459,
+            "files_processed": 512
+        },
+        {
+            "write_throughput": 20.82934022545481,
+            "read_throughput": 85.36622360961114,
+            "write_time": 1.5362944602966309,
+            "read_time": 0.37485551834106445,
+            "files_processed": 512
+        },
+        {
+            "write_throughput": 20.56693307695997,
+            "read_throughput": 84.44000644226124,
+            "write_time": 1.5558955669403076,
+            "read_time": 0.37896728515625,
+            "files_processed": 512
+        },
+        {
+            "write_throughput": 20.21450571217804,
+            "read_throughput": 79.1751580934403,
+            "write_time": 1.583021640777588,
+            "read_time": 0.40416717529296875,
+            "files_processed": 512
+        }
+    ],
+    "parallel_small_16": [
+        {
+            "write_throughput": 18.966489424540583,
+            "read_throughput": 83.46131407468117,
+            "write_time": 1.6871862411499023,
+            "read_time": 0.383411169052124,
+            "files_processed": 512
+        },
+        {
+            "write_throughput": 20.833226438746298,
+            "read_throughput": 82.78769426632158,
+            "write_time": 1.5360078811645508,
+            "read_time": 0.38653087615966797,
+            "files_processed": 512
+        },
+        {
+            "write_throughput": 20.849553370525143,
+            "read_throughput": 85.56224436715252,
+            "write_time": 1.5348050594329834,
+            "read_time": 0.3739967346191406,
+            "files_processed": 512
+        },
+        {
+            "write_throughput": 20.632870123553353,
+            "read_throughput": 85.49428085684275,
+            "write_time": 1.5509233474731445,
+            "read_time": 0.3742940425872803,
+            "files_processed": 512
+        },
+        {
+            "write_throughput": 21.05006634913809,
+            "read_throughput": 79.298278119402,
+            "write_time": 1.5201852321624756,
+            "read_time": 0.40353965759277344,
+            "files_processed": 512
+        }
+    ]
+}

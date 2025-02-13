@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/my_fs.dir/main.cpp.o -o my_fs  -lfuse3 -lpthread 
+/usr/bin/c++     CMakeFiles/my_fs.dir/main.cpp.o  -o my_fs  -lfuse3 -lpthread -lpthread 

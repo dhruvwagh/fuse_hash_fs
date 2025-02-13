@@ -1,14 +1,16 @@
-
-# Consider dependencies only in project.
-set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
-
 # The set of languages for which implicit dependencies are needed:
 set(CMAKE_DEPENDS_LANGUAGES
+  "CXX"
   )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_CXX
+  "/home/dhruv/Documents/fuse_hash_fs/main.cpp" "/home/dhruv/Documents/fuse_hash_fs/build/CMakeFiles/my_fs.dir/main.cpp.o"
+  )
+set(CMAKE_CXX_COMPILER_ID "GNU")
 
-# The set of dependency files which are needed:
-set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/parallels/Documents/framework/fuse_hash_fs/main.cpp" "CMakeFiles/my_fs.dir/main.cpp.o" "gcc" "CMakeFiles/my_fs.dir/main.cpp.o.d"
+# The include file search paths:
+set(CMAKE_CXX_TARGET_INCLUDE_PATH
+  "/usr/include/fuse3"
   )
 
 # Targets to which this target links.

@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/fuse_hash.dir/main.cpp.o -o fuse_hash  -lfuse3 -lpthread 
